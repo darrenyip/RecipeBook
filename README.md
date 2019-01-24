@@ -1,6 +1,8 @@
-# SimpleApp
+# Recipe Book
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+
+It has recipes which can be created and has a shopping list which can select ingredients from the recipes.
 
 ## Development server
 
